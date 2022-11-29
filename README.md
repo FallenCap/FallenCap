@@ -21,7 +21,7 @@
 
 <p><br><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fallencap&show_icons=true&locale=en&layout=compact" alt="fallencap" /></p>
 
-<p><br><img align="center" src="https://github-readme-stats.vercel.app/api?username=fallencap&show_icons=true&locale=en" alt="fallencap" /></p>
+<p><br><img align="center" padding-top="10px" src="https://github-readme-stats.vercel.app/api?username=fallencap&show_icons=true&locale=en" alt="fallencap" /></p>
 
 <p><br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fallencap&" alt="fallencap" /></p>
 
