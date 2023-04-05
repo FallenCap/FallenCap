@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Java, HTML, CSS, JavaScript, jQuery, Bootstrap, React**
+- 💬 Ask me about **Java, HTML, CSS, JavaScript, Bootstrap, tailwind, React**
 
 - 📫 How to reach me **fallencap18@gmail.com**
 
