@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fallencap&label=Profile%20views&color=0e75b6&style=flat" alt="fallencap" /> </p>
 
-- 🔭 I’m currently working on [50-day-WebDev-Challenge](https://github.com/FallenCap/50-Day-WebDev-Challenge)
+- 🔭 I’m currently working on NodeJS
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Java, HTML, CSS, JavaScript, Bootstrap, tailwind, React**
+- 💬 Ask me about **Java, HTML, CSS, JavaScript, Bootstrap, tailwind, React, NodeJS, MongoDB**
 
 - 📫 How to reach me **fallencap18@gmail.com**
 
