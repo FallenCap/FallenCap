@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on NodeJS
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **NodeJS**
 
 - 💬 Ask me about **Java, HTML, CSS, JavaScript, Bootstrap, tailwind, React, NodeJS, MongoDB**
 
