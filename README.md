@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [Delicious](https://github.com/FallenCap/Delicious)
 
-- 🌱 I’m currently learning **NodeJS & Solidity**
+- 🌱 I’m currently learning **Java Spring & Springboot**
 
 - 👯 I’m looking to collaborate for **Hackathons**
 
-- 🤝 I’m looking for help with **Web3**
+- 🤝 I’m looking for help with **Spring**
 
-- 👨‍💻 All of my projects are available at [https://subham-s-portfolio.vercel.app/](https://subham-s-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://subham-s-portfolio.vercel.app/](https://subham-1999-portfolio.vercel.app/)
 
 - 💬 Ask me about **Web Development**
 
