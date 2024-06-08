@@ -2,24 +2,24 @@
 
 <h1 align="center">Hi 👋, I'm Subham Saha</h1>
 <h3 align="center">A passionate Full Stack web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 
 - 🔭 I’m currently working on [Delicious](https://github.com/FallenCap/Delicious)
 
 - 🌱 I’m currently learning **Java Spring & Springboot**
 
-- 👯 I’m looking to collaborate for **Hackathons**
+<!--- 👯 I’m looking to collaborate for **Hackathons**-->
 
 - 🤝 I’m looking for help with **Spring**
 
-- 👨‍💻 All of my projects are available at [https://subham-s-portfolio.vercel.app/](https://subham-1999-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://subham-1999-portfolio.vercel.app/](https://subham-1999-portfolio.vercel.app/)
 
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **subham.saha.dev@gmail.com**
 
-- ⚡ Fun fact **I like games**
+- ⚡ Fun fact **I like video games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
